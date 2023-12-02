@@ -11,7 +11,7 @@ export default class App extends Component {
         }}>add1</button>
 
         <button onClick={ this.handleClick }>add2</button>
-
+            
       </div>
     )
   }

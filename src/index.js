@@ -4,7 +4,8 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 
 import './01-base/01-class-component'
-import App from './01-base/05-event-binding'
+// import App from './01-base/05-event-binding'
+import App from './01-base/10-todolist'
 
 const container = document.getElementById('root')
 
